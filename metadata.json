@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SavATree Enterprise ERP",
+  "description": "A comprehensive enterprise-grade ERP system for tree and lawn care management, featuring M&A onboarding, dynamic dispatch, CRM, and real-time telematics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
